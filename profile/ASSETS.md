@@ -11,7 +11,7 @@ This profile uses company-authorized branding and public product material for E-
 | hero.png | Maintained graphic composition of approved logo and official camera photograph. It does not depict company premises or a deployment. |
 | evms-playback.png | Real E-VMS interface; synthetic colour-bar recording from local validation. No real surveillance subjects. |
 | caamoo-overview.svg | Original editorial workflow illustration; no screenshot, session, internal endpoint or private record. |
-| ecosystem.svg | Maintained explanatory diagram. Solid relationships denote supported/locally verified flows; the proposed CAAMOO connection is dashed. |
+| ecosystem.svg / ecosystem-mobile.svg | Maintained explanatory diagram. Solid relationships denote supported/locally verified flows; the proposed CAAMOO connection is dashed. |
 
 The E-VMS playback screenshot is already published in the [public website source](https://github.com/Evisionindia/EVMS-website/blob/main/public/assets/operator-playback.png). It illustrates the interface, not certified accuracy, a customer installation or universal device compatibility. Product grants and authorized access are separate per application. The managed Windows E-VMS operator client requires an existing server; Platform Owner is separately privileged. Current release and verification details are maintained in the [E-VMS website repository](https://github.com/Evisionindia/EVMS-website).
 
