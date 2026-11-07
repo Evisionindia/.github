@@ -38,7 +38,7 @@ Explore [cameras](https://evisionindia.com/cctv-cameras/), [recording systems](h
 
 ### 02 / CAAMOO — Ask a question. Inspect the evidence.
 
-<img src="https://raw.githubusercontent.com/Evisionindia/.github/main/profile/assets/caamoo-overview.svg" width="100%" alt="CAAMOO workflow illustration: approved material, ask a question, inspect evidence; not an application screenshot">
+<img src="https://raw.githubusercontent.com/Evisionindia/.github/main/profile/assets/caamoo-overview.svg" width="560" alt="CAAMOO workflow illustration: approved material, ask a question, inspect evidence; not an application screenshot">
 
 **A separate visual investigation application.** Ask questions about approved material, continue the conversation, revisit saved history and open the supporting evidence or export permitted results.
 
@@ -50,7 +50,7 @@ Explore [cameras](https://evisionindia.com/cctv-cameras/), [recording systems](h
 
 ### 03 / ANPR — Find the event behind the plate.
 
-<img src="https://raw.githubusercontent.com/Evisionindia/.github/main/profile/assets/camera.png" width="100%" alt="Genuine E-Vision ANPR-category camera photograph from the official public CCTV catalogue">
+<img src="https://raw.githubusercontent.com/Evisionindia/.github/main/profile/assets/camera.png" width="420" alt="Genuine E-Vision ANPR-category camera photograph from the official public CCTV catalogue">
 
 **Number-plate event processing and review.** Search observations, inspect plate crops and follow an event to its evidence. Product access and the E-VMS event bridge have separate configuration boundaries.
 
@@ -60,7 +60,10 @@ Explore [cameras](https://evisionindia.com/cctv-cameras/), [recording systems](h
 
 ## How the products fit together
 
+<picture>
+<source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Evisionindia/.github/main/profile/assets/ecosystem-mobile.svg">
 <img src="https://raw.githubusercontent.com/Evisionindia/.github/main/profile/assets/ecosystem.svg" width="100%" alt="Cameras and NVRs connect to E-VMS through supported interfaces; ANPR event exchange is locally verified; CAAMOO remains standalone with a proposed direct connection">
+</picture>
 
 **Implemented:** supported camera/NVR workflows in E-VMS. **Locally verified:** ANPR event exchange with E-VMS. **Proposed:** a direct E-VMS–CAAMOO connection. Each application retains its own access and product-grant boundary.
 
