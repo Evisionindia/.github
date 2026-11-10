@@ -40,7 +40,7 @@ Explore [cameras](https://evisionindia.com/cctv-cameras/), [recording systems](h
 
 <img src="https://raw.githubusercontent.com/Evisionindia/.github/main/profile/assets/caamoo-overview.svg" width="560" alt="CAAMOO workflow illustration: approved material, ask a question, inspect evidence; not an application screenshot">
 
-**A separate visual investigation application.** Ask questions about approved material, continue the conversation, revisit saved history and open the supporting evidence or export permitted results.
+**A separate visual investigation application.** Ask questions about approved material, continue the conversation, revisit saved history and open the supporting evidence or export permitted results. Ishika leads CAAMOO and its training work.
 
 *Workflow illustration; application screenshots are not included in this public presentation.* CAAMOO is separately licensed; ask the team about availability and the intended evidence sources.
 
